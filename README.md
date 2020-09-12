@@ -1,2 +1,2 @@
-# Programacion-2
-Códigos básicos de la materia Programación II de la carrera Ingeniería en Computación UNLP
+# Algoritmos-Basicos
+Códigos básicos de algunas materias de la Facultad de Informatica UNLP
