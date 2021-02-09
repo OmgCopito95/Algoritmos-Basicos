@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1351329191"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\july-\Documents\GitHub\Algoritmos-Basicos\IMPERATIVO\Registros\lib\x86_64-win64 -FuC:\Users\july-\Documents\GitHub\Algoritmos-Basicos\IMPERATIVO\Registros\ -FUC:\Users\july-\Documents\GitHub\Algoritmos-Basicos\IMPERATIVO\Registros\lib\x86_64-win64\ -FEC:\Users\july-\Documents\GitHub\Algoritmos-Basicos\IMPERATIVO\Registros\ -oC:\Users\july-\Documents\GitHub\Algoritmos-Basicos\IMPERATIVO\Registros\registros.exe registros.lpr"/>
+</CONFIG>
