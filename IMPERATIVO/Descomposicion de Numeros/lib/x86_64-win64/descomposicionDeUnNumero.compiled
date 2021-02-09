@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1351329191"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\july-\Documents\GitHub\Algoritmos-Basicos\IMPERATIVO\Descomposicion de Numeros\lib\x86_64-win64&quot; &quot;-FuC:\Users\july-\Documents\GitHub\Algoritmos-Basicos\IMPERATIVO\Descomposicion de Numeros\&quot; &quot;-FUC:\Users\july-\Documents\GitHub\Algoritmos-Basicos\IMPERATIVO\Descomposicion de Numeros\lib\x86_64-win64\&quot; &quot;-FEC:\Users\july-\Documents\GitHub\Algoritmos-Basicos\IMPERATIVO\Descomposicion de Numeros\&quot; &quot;-oC:\Users\july-\Documents\GitHub\Algoritmos-Basicos\IMPERATIVO\Descomposicion de Numeros\descomposicionDeUnNumero.exe&quot; descomposicionDeUnNumero.lpr"/>
+</CONFIG>
