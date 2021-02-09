@@ -15,9 +15,13 @@ begin
 
     digito:=copia MOD 10; //SE QUEDA CON EL ULTIMO DIGITO
 
-    writeln('digito: ',digito);
+    if (digito MOD 2 = 0) then
+       writeln('El digito: ',digito,' es par.')
+    else
+       writeln('El digito: ',digito,' es impar.');
 
     copia:=copia DIV 10; //ACHICA AL NUMERO HASTA QUE SEA 0
+
   end;
 
   readln;

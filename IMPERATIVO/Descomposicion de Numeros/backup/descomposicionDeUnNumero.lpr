@@ -12,9 +12,15 @@ begin
   // MOD -> SE QUEDA CON EL RESTO DE UNA DIVISION ENTERA
 
   while(copia > 0) do begin
-    digito:=copia MOD 10;
-    writeln('digito: ',digito);
-    copia:=copia DIV 10;
+
+    digito:=copia MOD 10; //SE QUEDA CON EL ULTIMO DIGITO
+
+    if (digito MOD 2 = 0) then
+       writeln('El digito: ',digito,' es par.')
+    else
+       writeln('El digito: ',digito,' es impar.');
+
+    copia:=copia DIV 10; //ACHICA AL NUMERO HASTA QUE SEA 0
   end;
 
   readln;
