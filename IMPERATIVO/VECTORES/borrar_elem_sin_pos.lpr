@@ -27,7 +27,7 @@ Procedure BorrarElem (var v: vector;  var dimL:indice; elem:integer; var exito: 
      i: integer; 
    begin
       for i:=pos+1 to dimL  do
-         v [i-1] := v [i];
+         v[i-1] := v [i];
       dimL := dimL-1;
    end;
 
