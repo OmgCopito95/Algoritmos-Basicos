@@ -23,8 +23,6 @@
 
 - **[Plantilla Pila](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/ASSEMBLER)**
 
----
-
 ### Imperativo
 
 - **[Arboles](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/ARBOLES)**
@@ -37,8 +35,6 @@
    - **[Vectores](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/RECURSION/Vectores)**
 - **[Registros](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/Registros)**
 - **[Vectores](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/VECTORES)**
-
----
 
 ### RINFO
 - **[Instrucciones](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/RINFO)**
