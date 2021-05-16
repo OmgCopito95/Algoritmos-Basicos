@@ -1,6 +1,28 @@
-# Algoritmos Básicos para Programar
 
-Códigos básicos de algunas materias de la Facultad de Informática UNLP (Programación 2, CADP, Taller de Programación)
+
+
+
+
+<div align="center">  
+  <p <h1> Algoritmos Básicos para Programar </h1> </p>
+  <p align="center">
+     Códigos básicos de algunas materias de la <strong>Facultad de Informática UNLP</strong> (Programación 2, CADP, Taller de Programación)
+  </p>
+  <hr>
+</div>
+
+<div align="center">  
+  <p align="center">
+  <sub>
+    Si el contenido te sirvió, podés invitarme un café y apoyarme para que siga subiendo mas codigos! gracias! ❤️
+  </sub>
+  </p>
+  
+  <p align="center">
+  <a href='https://cafecito.app/omgcopito95' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_2.png 1x, https://cdn.cafecito.app/imgs/buttons/button_2_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_2_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_2.png' alt='Invitame un café en cafecito.app' /></a>
+  </p>
+  <hr>
+</div>
 
 ---
 
