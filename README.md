@@ -8,7 +8,6 @@ Códigos básicos de algunas materias de la Facultad de Informática UNLP (Progr
 
 * [Plantilla Pila](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/ASSEMBLER)
 
----
 
 ### Imperativo
 
@@ -23,7 +22,6 @@ Códigos básicos de algunas materias de la Facultad de Informática UNLP (Progr
  * [Registros](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/Registros)
  * [Vectores](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/VECTORES)
 
----
 
 ### RINFO
 * [Instrucciones](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/RINFO)
