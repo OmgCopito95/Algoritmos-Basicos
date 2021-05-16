@@ -6,11 +6,9 @@ Programación 2, CADP, Taller de Programación
 
 ---
 
-## Assembler https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/ASSEMBLER
+## Assembler
 
-* [Plantilla Pila](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/ASSEMBLER Pila)
-
-
+[Plantilla Pila]: https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/ASSEMBLER
 
 
 
