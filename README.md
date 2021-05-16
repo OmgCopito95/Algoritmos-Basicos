@@ -1,5 +1,5 @@
 <div align="center">  
-  <p <h1> Algoritmos Básicos para Programar </h1> </p>
+  <p Algoritmos Básicos para Programar </p>
   <p align="center">
      Códigos básicos de algunas materias de la <strong>Facultad de Informática UNLP</strong> (Programación 2, CADP, Taller de Programación)
   </p>
