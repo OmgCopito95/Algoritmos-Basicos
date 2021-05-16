@@ -40,8 +40,7 @@
 - **[Instrucciones](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/RINFO)**
 
 
-<span style="color:red">some blue text</span>.
-
+<a class="red" href="#url">link-gray</a>
 
 
 
