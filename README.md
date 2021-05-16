@@ -39,10 +39,6 @@
 ### RINFO
 - **[Instrucciones](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/RINFO)**
 
-<div class="text-orange-light mb-2">
-  .text-orange-light on white
-</div>
-
 
 
 
