@@ -28,12 +28,14 @@ begin
   readln(p.telefono);
 
   writeln('Se ha cargado la persona con exito. Estos son los datos:');
-  writeln('Nombre: ',p.nombre);
-  writeln('Apellido: ',p.apellido);
-  writeln('Edad: ',p.edad);
-  writeln('Dni: ',p.dni);
-  writeln('Telefono: ',p.telefono);
 
+  with p do begin           //EL WITH EVITA TENER QUE ESCRIBIR LA VARIABLE PARA ACCEDER A CADA CAMPO DEL REGISTRO
+    writeln('Nombre: ',nombre);
+    writeln('Apellido: ',apellido);
+    writeln('Edad: ',edad);
+    writeln('Dni: ',dni);
+    writeln('Telefono: ',telefono);
+  end;
   readln;
 end.
 
