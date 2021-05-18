@@ -21,7 +21,28 @@ begin
 	nue^.sig := act;
 end;
 
-// OPCION 2 - con puntero al ultimo elemento
+
+//OPCION 2 - recorre la lista tambien hasta encontrar el ultimo elemento (no usa variable anterior)
+
+procedure agregarAtrasVersion2(var L: lista; v: integer);  //recorre toda la lista
+var
+        aux, act : lista;
+begin
+        new(aux);
+        aux^.num := v;
+        aux^.sig := nil;
+        if (l <> nil) then begin
+            act:=l;
+            while (act^.sig <> nil) do
+                act:=act^.sig;
+            act^.sig:=aux;
+        end
+        else
+            l:=aux;
+end;
+
+
+// OPCION 3 - con puntero al ultimo elemento
 
 procedure agregarAtras(var l: lista; var ult: lista; dato: integer);
 var
