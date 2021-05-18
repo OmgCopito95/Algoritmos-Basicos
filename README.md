@@ -18,8 +18,8 @@
   </p>
   <hr>
   
-  <i>Si se te ocurre algún ejemplo, tema o ejercicio que quieras que incluya:</i> <br>
-    Anda a la sección de <b>ISSUES</b> y creá uno nuevo diciéndome lo que necesitas! 🙂
+  Si se te ocurre algún ejemplo, tema o ejercicio que quieras que incluya:<br>
+   <i> Anda a la sección de <b><a href="https://github.com/OmgCopito95/Algoritmos-Basicos/issues">ISSUES</a></b> y creá uno nuevo diciéndome lo que necesitas! </i> 🙂
 </div>
 
 ### Assembler
