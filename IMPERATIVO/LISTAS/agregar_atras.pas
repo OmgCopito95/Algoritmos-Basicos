@@ -24,7 +24,8 @@ end;
 // OPCION 2 - con puntero al ultimo elemento
 
 procedure agregarAtras(var l: lista; var ult: lista; dato: integer);
-ver
+var
+    nue:lista;
 begin
 	new(nue);
 	nue^.dato := dato;
