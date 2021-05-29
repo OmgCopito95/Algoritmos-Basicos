@@ -12,7 +12,7 @@ begin
   end;   
   if (act <> NIL) then begin
        exito := true; 
-	  if (act = pri) then  
+    if (act = pri) then  
       pri := act^.sig;
     else  
       ant^.sig:= act^.sig;
@@ -30,12 +30,13 @@ var ant, act: lista;
 begin 
   exito := false;
   act := pri;
-  {Recorro mientras no se termine la lista y no encuentre el elemento}
-  while (act^.datos.nom <> nom) do begin
+  {Recorro mientras no encuentre el elemento}
+  while (act^.datos.nom <> nom) do begin   //NO HACE FALTA PREGUNTAR POR NIL 
       ant := act;
       act := act^.sig
   end;   
   
+  //SI SALE DEL WHILE ES PORQUE YA LO ENCONTRÓ SEGURO
   exito := true; 
   if (act = pri) then  
       pri := act^.sig;
