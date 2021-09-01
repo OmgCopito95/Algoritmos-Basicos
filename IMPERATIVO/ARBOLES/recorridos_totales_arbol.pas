@@ -22,7 +22,7 @@ begin
 	end;	
 end;
 
-// PRE ORDEN (jerarquico)
+// PRE ORDEN (jerarquico) Primero va por los padres y despues por todos los hijos
 
 procedure preOrden (a:arbol);
 begin
