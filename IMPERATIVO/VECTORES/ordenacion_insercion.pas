@@ -2,7 +2,7 @@
 
 procedure OrdenacionPorInsercion(var v: vector; dimL: integer);
 var 
-	i, j, dato: integer;
+	i, j, actual: integer;
 begin
 
 	for i:= 2 to dimL do begin
