@@ -1,3 +1,4 @@
+<!--
 <div>
 <h3 align="center">RECURSADOS APP</h3>
   
@@ -14,7 +15,7 @@
 </div>
 
 ---
-
+-->
 <div align="center">  
   <p Algoritmos Básicos para Programar </p>
   <p align="center">
