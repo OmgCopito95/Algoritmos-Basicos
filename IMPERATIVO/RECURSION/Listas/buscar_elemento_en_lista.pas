@@ -1,6 +1,6 @@
 //BUSCA UN ELEMENTO EN UNA LISTA DE MANERA RECURSIVA
 
-function buscar(l:lista; dimL:integer):boolean;
+function buscar(l:lista; x:integer):boolean;
 begin
   if(l=nil)then
     buscar:=false
